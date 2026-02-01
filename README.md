@@ -68,6 +68,8 @@ https://huggingface.co/docs/transformers/perplexity
 ## Agentic
 https://medium.com/the-modern-scientist/a-complete-guide-to-llms-based-autonomous-agents-part-i-69515c016792
 
+https://docs.cloud.google.com/architecture/choose-agentic-ai-architecture-components
+
 ### Design Pattern
 https://docs.cloud.google.com/architecture/choose-design-pattern-agentic-ai-system
 
