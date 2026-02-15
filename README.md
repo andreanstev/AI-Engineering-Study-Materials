@@ -12,6 +12,8 @@ https://webz.io/blog/machine-learning/optimize-llm-data-preprocessing-with-struc
 
 https://wandb.ai/wandb_gen/llm-data-processing/reports/Processing-Data-for-Large-Language-Models--VmlldzozMDg4MTM2
 
+https://www.pinecone.io/learn/chunking-strategies/
+
 ## Prompting
 ### Zero Shot
 https://andrewmayne.com/2021/04/18/the-gpt-3-zero-shot-approach/
@@ -86,6 +88,8 @@ https://billtcheng2013.medium.com/hello-world-to-audio-transcribing-with-openai-
 
 ## Implementation
 https://huyenchip.com/2023/04/11/llm-engineering.html
+
+https://www.pinecone.io/learn/retrieval-augmented-generation/
 
 ## Governance
 Responsible AI Practices
