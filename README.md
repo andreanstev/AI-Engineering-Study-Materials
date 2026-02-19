@@ -15,6 +15,8 @@ https://wandb.ai/wandb_gen/llm-data-processing/reports/Processing-Data-for-Large
 https://www.pinecone.io/learn/chunking-strategies/
 
 ## Prompting
+https://www.promptingguide.ai/
+
 ### Zero Shot
 https://andrewmayne.com/2021/04/18/the-gpt-3-zero-shot-approach/
 
