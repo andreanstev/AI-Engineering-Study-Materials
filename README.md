@@ -88,6 +88,9 @@ https://scalastic.io/en/whisper-pyannote-ultimate-speech-transcription/
 
 https://billtcheng2013.medium.com/hello-world-to-audio-transcribing-with-openai-whisper-d2ba9d355ec9
 
+### Sentiment Analysis
+https://medium.com/nlplanet/quick-intro-to-aspect-based-sentiment-analysis-c8888a09eda7
+
 ## Implementation
 https://huyenchip.com/2023/04/11/llm-engineering.html
 
