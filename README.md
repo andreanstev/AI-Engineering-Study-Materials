@@ -91,14 +91,16 @@ https://billtcheng2013.medium.com/hello-world-to-audio-transcribing-with-openai-
 ### Sentiment Analysis
 https://medium.com/nlplanet/quick-intro-to-aspect-based-sentiment-analysis-c8888a09eda7
 
+### RAG
+https://www.pinecone.io/learn/retrieval-augmented-generation/
+
+### Deep Research
+https://blog.langchain.com/open-deep-research/
+
 ## Implementation
 https://huyenchip.com/2023/04/11/llm-engineering.html
-
-https://www.pinecone.io/learn/retrieval-augmented-generation/
 
 ## Governance
 Responsible AI Practices
 
 https://ai.google/principles/
-
-
