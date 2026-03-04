@@ -20,6 +20,9 @@ https://www.promptingguide.ai/
 ### Zero Shot
 https://andrewmayne.com/2021/04/18/the-gpt-3-zero-shot-approach/
 
+### Chain of Draft
+https://www.analyticsvidhya.com/blog/2025/03/chain-of-draft/
+
 ## Architecture
 https://medium.com/@russkohn/mastering-ai-token-limits-and-memory-ce920630349a
 
