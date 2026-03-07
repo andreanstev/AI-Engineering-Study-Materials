@@ -107,3 +107,6 @@ https://huyenchip.com/2023/04/11/llm-engineering.html
 Responsible AI Practices
 
 https://ai.google/principles/
+
+## Incident
+https://awesomeagents.ai/news/amazon-kiro-ai-aws-outages/
