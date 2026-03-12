@@ -6,6 +6,9 @@ ALERT:
 - some of them maybe not a beginner-friendly, 
 - or maybe outdated
 
+## Definitions
+https://aiguide.substack.com/p/llms-and-world-models-part-1
+
 ## Data
 ### Preprocessing
 https://webz.io/blog/machine-learning/optimize-llm-data-preprocessing-with-structured-historical-web-data/
