@@ -107,9 +107,14 @@ https://blog.langchain.com/open-deep-research/
 https://huyenchip.com/2023/04/11/llm-engineering.html
 
 ## Governance
+https://aws.amazon.com/what-is/ai-governance/#amsc7--1wxyd7n
+
+https://aws.amazon.com/blogs/machine-learning/governance-by-design-the-essential-guide-for-successful-ai-scaling/
+
 Responsible AI Practices
 
 https://ai.google/principles/
+
 
 ## Incident
 https://awesomeagents.ai/news/amazon-kiro-ai-aws-outages/
